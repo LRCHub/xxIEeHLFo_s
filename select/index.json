@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Official髭男dism - ブラザーズ［Official Live Video］",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-27T02:57:35.402850Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Official髭男dism - Cry Baby［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/01_Official髭男dism_-_Cry_Baby[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Official髭男dism - ホワイトノイズ [Official Video]",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/02_Official髭男dism_-_ホワイトノイズ_[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Official髭男dism - Subtitle [Official Video]",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/03_Official髭男dism_-_Subtitle_[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Official髭男dism - Pretender［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/04_Official髭男dism_-_Pretender[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Official髭男dism - Mixed Nuts ［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/05_Official髭男dism_-_Mixed_Nuts_[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Official髭男dism - Cry Baby［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/06_Official髭男dism_-_Cry_Baby[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Official髭男dism - ノーダウト［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/07_Official髭男dism_-_ノーダウト[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Official髭男dism - イエスタデイ［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/08_Official髭男dism_-_イエスタデイ[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Official髭男dism - ホワイトノイズ [Official Video]",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/09_Official髭男dism_-_ホワイトノイズ_[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Official髭男dism - 50％  Official Audio",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/10_Official髭男dism_-_50__Official_Audio_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Official髭男dism - ホワイトノイズ [Official Video]",
+      "artist": "OFFICIAL HIGE DANDISM",
+      "has_synced": true,
+      "path": "select/11_Official髭男dism_-_ホワイトノイズ_[Official_Video]_OFFICIAL_HIGE_DANDISM.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Official髭男dism - Laughter［Official Video］",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/12_Official髭男dism_-_Laughter[Official_Video]_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Pretender 〈Official髭男dism〉",
+      "artist": "Uru",
+      "has_synced": true,
+      "path": "select/13_Pretender_〈Official髭男dism〉_Uru.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Official髭男dism - Subtitle [Official Video]",
+      "artist": "Sing along J-Pop",
+      "has_synced": true,
+      "path": "select/14_Official髭男dism_-_Subtitle_[Official_Video]_Sing_along_J-Pop.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gravity feat. 藤原聡 (Official髭男dism)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/15_Gravity_feat._藤原聡_(Official髭男dism)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ブラザーズ - LIVE",
+      "artist": "Official HIGE DANdism",
+      "has_synced": false,
+      "path": "select/pl_01_ブラザーズ_-_LIVE_Official_HIGE_DANdism.txt"
+    }
+  ]
+}
